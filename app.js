@@ -5,3 +5,4 @@ novo = 2;
 asas = 3;
 mamao = 4;
 pomada = 1;
+etsts = 2;
