@@ -6,3 +6,4 @@ asas = 3;
 mamao = 4;
 pomada = 1;
 etsts = 2;
+bananananana = 1;
